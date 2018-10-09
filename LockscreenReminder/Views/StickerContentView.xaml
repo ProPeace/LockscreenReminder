@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentView 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="LockscreenReminder.Views.StickerContentView">
+    <ContentView.Content>
+         <Grid>
+            <Image
+                Source="icon_sticky_yellow.jpg"
+                Aspect="Fill"/>
+            <Label
+                Text="{Binding StickerText}"
+                VerticalTextAlignment="Center"
+                TextColor="Black"
+                FontSize="18"
+                Margin="10,0"/>
+        </Grid>   
+    </ContentView.Content>
+</ContentView>

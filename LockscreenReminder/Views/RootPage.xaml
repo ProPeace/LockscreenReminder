@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="LockscreenReminder.Views.RootPage"
+    xmlns:t="clr-namespace:LockscreenReminder.Views.Templates">
+    <ContentPage.Content>
+        <Grid>
+            <StackLayout
+                BackgroundColor="Gray">
+                <Label
+                    Margin="15"
+                    Text="Entrez votre texte :"
+                    FontSize="18"
+                    TextColor="White"/>
+                <Editor
+                    x:Name="StickerEditor"
+                    Margin="15,0"
+                    HeightRequest="100"
+                    BackgroundColor="White"/>
+                <Button
+                    HeightRequest="80"
+                    Margin="15,0"
+                    Text="Changer"
+                    Clicked="OnButtonClicked"/>
+            </StackLayout>  
+            <t:ActivityIndicatorTemplate
+                x:Name="ActivityTemplate"
+                IsVisible="false"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

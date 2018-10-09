@@ -1,0 +1,2 @@
+android.app.Application
+com.vviane.LockscreenReminder_Droid

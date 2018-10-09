@@ -1,0 +1,14 @@
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/bin/Debug/netstandard2.0/LockscreenReminder.deps.json
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/bin/Debug/netstandard2.0/LockscreenReminder.dll
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/bin/Debug/netstandard2.0/LockscreenReminder.pdb
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/Views/RootPage.xaml.g.cs
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/Views/StickerContentView.xaml.g.cs
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/LockscreenReminder.csproj.CoreCompileInputs.cache
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/LockscreenReminder.AssemblyInfoInputs.cache
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/LockscreenReminder.AssemblyInfo.cs
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/LockscreenReminder.dll
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/LockscreenReminder.pdb
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/Views/Templates/ActivityIndicatorTemplate.xaml.g.cs
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/LockscreenReminder.csprojResolveAssemblyReference.cache
