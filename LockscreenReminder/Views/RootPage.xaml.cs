@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 using LockscreenReminder.Models;
 using LockscreenReminder.Services;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace LockscreenReminder.Views
 {

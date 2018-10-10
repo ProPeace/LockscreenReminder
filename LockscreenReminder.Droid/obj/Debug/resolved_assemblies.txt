@@ -6,6 +6,9 @@
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/obj/Debug/android/assets/Mono.Android.dll
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/obj/Debug/android/assets/mscorlib.dll
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/obj/Debug/android/assets/Plugin.Settings.dll
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/obj/Debug/android/assets/SkiaSharp.dll
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/obj/Debug/android/assets/SkiaSharp.Views.Android.dll
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/obj/Debug/android/assets/SkiaSharp.Views.Forms.dll
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/obj/Debug/android/assets/SQLite-net.dll
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/obj/Debug/android/assets/SQLitePCLRaw.batteries_green.dll
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/obj/Debug/android/assets/SQLitePCLRaw.batteries_v2.dll

@@ -6,12 +6,15 @@
 
   <ItemGroup>
     <None Remove="App.config" />
+    <None Remove="Media\icon_sticky_yellow.png" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.2.0.871581" />
     <PackageReference Include="sqlite-net-pcl" Version="1.5.231" />
     <PackageReference Include="Xam.Plugins.Settings" Version="4.0.0.10-beta" />
     <PackageReference Include="Autofac" Version="4.9.0-beta1" />
+    <PackageReference Include="SkiaSharp" Version="1.60.3" />
+    <PackageReference Include="SkiaSharp.Views.Forms" Version="1.60.3" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\" />
@@ -22,9 +25,18 @@
     <Folder Include="Helpers\" />
     <Folder Include="Services\Database\" />
     <Folder Include="Models\" />
+    <Folder Include="Models\Touch\" />
+    <Folder Include="Effects\" />
+    <Folder Include="Events\" />
+    <Folder Include="Media\" />
+    <Folder Include="Transforms\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Services\WallpaperService.cs" />
     <Compile Remove="Views\StickerView.xaml.cs" />
+    <Compile Remove="Models\Touch\ToucheManipulationInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Media\icon_sticky_yellow.png" />
   </ItemGroup>
 </Project>

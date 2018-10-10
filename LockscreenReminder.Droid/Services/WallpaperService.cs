@@ -3,7 +3,6 @@ using Android.App;
 using Android.Graphics;
 using Android.Util;
 using Android.Views;
-using Android.Widget;
 using LockscreenReminder.Droid.Services;
 using LockscreenReminder.Services;
 using Xamarin.Forms;

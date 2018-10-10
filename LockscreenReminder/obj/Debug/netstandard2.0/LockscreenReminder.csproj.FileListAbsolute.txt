@@ -12,3 +12,4 @@
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/LockscreenReminder.pdb
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/Views/Templates/ActivityIndicatorTemplate.xaml.g.cs
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/LockscreenReminder.csprojResolveAssemblyReference.cache
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder/obj/Debug/netstandard2.0/Views/StickerPositioningPage.xaml.g.cs

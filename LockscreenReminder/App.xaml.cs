@@ -18,7 +18,7 @@ namespace LockscreenReminder
         {
             InitializeComponent();
 			CreateDataBase();
-			MainPage = new RootPage();
+			MainPage = new StickerPositioningPage();
         }
 
 		void CreateDataBase()

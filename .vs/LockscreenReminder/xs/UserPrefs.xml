@@ -1,10 +1,19 @@
 ﻿<Properties StartupConfiguration="{87B0097B-8F98-41F2-BC66-0DC00363E954}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.ItemProperties.LockscreenReminder.Droid PreferredExecutionTarget="Android.330093693690a2a5" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LockscreenReminder.Droid/Services/WallpaperService.cs">
+  <MonoDevelop.Ide.ItemProperties.LockscreenReminder.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LockscreenReminder/Transforms/TouchManipulationBitmap.cs">
     <Files>
       <File FileName="LockscreenReminder/App.xaml" Line="10" Column="1" />
-      <File FileName="LockscreenReminder.Droid/Services/WallpaperService.cs" Line="22" Column="3" />
-      <File FileName="LockscreenReminder/Views/RootPage.xaml.cs" Line="21" Column="38" />
+      <File FileName="LockscreenReminder/Views/StickerPositioningPage.xaml" Line="32" Column="1" />
+      <File FileName="LockscreenReminder/Views/StickerPositioningPage.xaml.cs" Line="67" Column="1" />
+      <File FileName="LockscreenReminder/Effects/TouchEffect.cs" Line="9" Column="52" />
+      <File FileName="LockscreenReminder/Events/TouchActionEventArgs.cs" Line="14" Column="30" />
+      <File FileName="LockscreenReminder.Droid/Effects/TouchEffect.cs" Line="69" Column="1" />
+      <File FileName="LockscreenReminder/Events/TouchActionEventHandler.cs" Line="5" Column="1" />
+      <File FileName="LockscreenReminder/obj/Debug/netstandard2.0/Views/StickerPositioningPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="LockscreenReminder/Models/Touch/TouchManipulationMode.cs" Line="5" Column="8" />
+      <File FileName="LockscreenReminder/Transforms/TouchManipulationBitmap.cs" Line="9" Column="6" />
+      <File FileName="LockscreenReminder/Transforms/TouchManipulationManager.cs" Line="23" Column="15" />
+      <File FileName="LockscreenReminder/Models/Touch/TouchActionType.cs" Line="8" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

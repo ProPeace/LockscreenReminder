@@ -67,6 +67,12 @@
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/bin/Debug/Plugin.Settings.xml
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/bin/Debug/Autofac.pdb
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/bin/Debug/Autofac.xml
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/bin/Debug/SkiaSharp.dll
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/bin/Debug/SkiaSharp.Views.Android.dll
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/bin/Debug/SkiaSharp.Views.Forms.dll
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/bin/Debug/SkiaSharp.xml
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/bin/Debug/SkiaSharp.Views.Android.xml
+/Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/bin/Debug/SkiaSharp.Views.Forms.xml
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/bin/Debug/Mono.Android.pdb
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/obj/Debug/linksrc/LockscreenReminder.Droid.pdb
 /Users/vincentviane/Projects/LockscreenReminder/LockscreenReminder.Droid/obj/Debug/linksrc/Autofac.pdb

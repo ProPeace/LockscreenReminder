@@ -32,3 +32,6 @@ SQLitePCLRaw.batteries_v2
 SQLitePCLRaw.core
 SQLitePCLRaw.lib.e_sqlite3
 SQLitePCLRaw.provider.e_sqlite3
+SkiaSharp
+SkiaSharp.Views.Android
+SkiaSharp.Views.Forms
